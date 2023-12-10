@@ -5,7 +5,7 @@ Master's in Management Information Systems
 
 ### Projects
 
-1.	Content Recommendation Engine- Netflix
+1.	Content Recommendation Engine- https://mrs-sg-bfc2e6fa78db.herokuapp.com/
 •	Role & Contributions: Implemented ML algorithms, increasing user engagement by 30% and improving content click-through rates by 25%.
 
 •	Outcomes: Enhanced user satisfaction and retention through efficient personalized content discovery.
