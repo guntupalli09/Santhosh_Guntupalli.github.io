@@ -4,7 +4,7 @@
 Master's in Management Information Systems
 
 ### Technical Skills
-SQL, NOSQL, PYTHON, JAVA, JAVA SCRIPT
+SQL| NOSQL | PYTHON | JAVA | JAVA SCRIPT
 
 ### TOOLS
 Apache Spark, Apache Flink, Apache Nifi, Apache Kafka, Informatica, Talend, Data Bricks, Apache Hadoop, Apache Cassandra, Apache Hive, Apache HBase, Amazon Redshift, Google BigQuery, Microsoft SQL Server, MySQL, PostgreSQL, Oracle, MongoDB
@@ -31,7 +31,7 @@ Apache Airflow, Luigi, JSON, ORC, XML, Protobuf, TensorFlow, Pandas, NumPy, PyTo
 
  ### work experience
 
-##Company 1: Mphasis, New York                                                          August 2022- September 2023
+## Company 1: Mphasis, New York                                                          August 2022- September 2023
 Position: Data Engineer
 
 Data Management and Infrastructure Mastery:
@@ -47,7 +47,7 @@ Insights-Driven Decision-Making and Collaborative Innovations:
 Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
 Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
-##Company 2: LTI Mindtree, Hyderabad, India                                                      September 2019- August 2022
+## Company 2: LTI Mindtree, Hyderabad, India                                                      September 2019- August 2022
 Position: Data Engineer
 Roles and Responsibilities
 Efficient Data Processing and Management:
