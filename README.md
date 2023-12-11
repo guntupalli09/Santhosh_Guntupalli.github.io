@@ -4,16 +4,13 @@
 Master's in Management Information Systems
 
 ### Technical Skills
-SQL| NOSQL | PYTHON | JAVA | JAVA SCRIPT
+SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
 
-### TOOLS
-Apache Spark, Apache Flink, Apache Nifi, Apache Kafka, Informatica, Talend, Data Bricks, Apache Hadoop, Apache Cassandra, Apache Hive, Apache HBase, Amazon Redshift, Google BigQuery, Microsoft SQL Server, MySQL, PostgreSQL, Oracle, MongoDB
-Snowflake, Teradata, Microsoft Azure Synapse Analytics, Tableau, Power BI, Amazon Web Services (AWS), Google Cloud Platform (GCP), Microsoft Azure, Apache Avro, Parquet, Schema Registry, Git, GitHub, Docker, Kubernetes, ELK Stack (Elasticsearch, Logstash, Kibana), Prometheus, Grafana, Splunk, New Relic, Trifacta, Great Expectations, Apache Pulsar, AWS Kinesis, Google Cloud Pub/Sub, Azure Event Hubs, Apache Ranger, Apache Knox, Amazon KMS, Azure Key Vault, GCP Key Management Service
-Apache Airflow, Luigi, JSON, ORC, XML, Protobuf, TensorFlow, Pandas, NumPy, PyTorch, scikit-learn
+
 
 ### Projects
 
-1.	Content Recommendation Engine- https://mrs-sg-bfc2e6fa78db.herokuapp.com/
+1.	![Content Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 •	Role & Contributions: Implemented ML algorithms, increasing user engagement by 30% and improving content click-through rates by 25%.
 
 •	Outcomes: Enhanced user satisfaction and retention through efficient personalized content discovery.
