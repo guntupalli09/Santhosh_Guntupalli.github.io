@@ -65,5 +65,10 @@ Oversaw 10 data warehousing solutions, increasing analytics speed by 50%, while 
 
 
 ### Certifications
-1. 
+1. META Database Structures and Management with MySQL
+2. META Version Control
+3. META Advanced MySQL
+4. Prompt Engineering For Chatgpt - Vanderblit University
+5. IBM Exploratory Data Analysis for Machine Learning
+6. Machine Learning Specialisation - University of Washington
 
