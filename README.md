@@ -4,16 +4,16 @@
 Master's in Management Information Systems
 
 ### Technical Skills
-SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
+SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake | Apache Tools
 
 
 ### Projects
 
-Content Recommendation Engine (https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+Content Recommendation Engine ( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
 
-Data Visualization projects (https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+Data Visualization projects ( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
 
-Real time Stock Market Analysis (https://github.com/guntupalli09/stock_market-real_time-analysis)
+Real time Stock Market Analysis ( https://github.com/guntupalli09/stock_market-real_time-analysis )
 ### Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
