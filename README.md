@@ -4,16 +4,15 @@
 Master's in Management Information Systems
 
 ### Technical Skills
-SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake | Apache Tools
+SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
 
 
 ### Projects
 
 [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
-
 [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
-
 [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
+
 ### Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
@@ -22,7 +21,7 @@ SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake | Apache Tools
 5. IBM Exploratory Data Analysis for Machine Learning
 6. Machine Learning Specialisation - University of Washington
 
-## work experience
+## Work Experience
 
 ### Mphasis, New York                                                          August 2022- September 2023
 Position: Data Engineer
