@@ -10,7 +10,9 @@ SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
 ### Projects
 
 [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
+
 [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+
 [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
 
 ### Certifications
