@@ -4,7 +4,7 @@
 Master's in Management Information Systems
 
 ### Technical Skills
-SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
+SQL| NoSQL | Python | Java | Java Script | Amazon Webservices (AWS) | GCP | Snowflake | Azure
 
 
 ### Projects
