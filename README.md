@@ -10,10 +10,20 @@ SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
 ### Projects
 
 [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
+Created a Movie Recommendation System that suggests films based on a chosen movie selection.
+•	Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database Management 
+          Systems, API Integration, Model Evaluation, Data Visualisation
+•	Tools: Scikit-learn, TensorFlow, NLTK, Pandas, NumPy, TF-IDF Vectorizer, Jupyter Notebooks, PyCharm, Flask, GitHub
 
 [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+Produced diverse data visualizations across my professional tenure and academic endeavors.
+•	Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling with Data, Critical Thinking, Domain Knowledge
+•	Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
 [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
+Real-time stock market analysis providing live trend indicators for informed investment decisions
+•	Skills: Data Streaming, Cloud Services, Data Processing, API Integration, Model Evaluation
+•	Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
 ### Certifications
 1. META Database Structures and Management with MySQL
@@ -25,7 +35,7 @@ SQL| NOSQL | PYTHON | Java | Java Script | AWS | GCP | Snowflake
 
 ## Work Experience
 
-### Mphasis, New York                                                          August 2022- September 2023
+### Mphasis, New York                                                                                                                  August 2022- September 2023
 Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
