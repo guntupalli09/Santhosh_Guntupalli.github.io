@@ -16,7 +16,7 @@ Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
 ### Projects
 
-# [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/-click here)
+# [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/-clickhere)
 
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 
