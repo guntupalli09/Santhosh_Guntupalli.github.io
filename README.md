@@ -5,9 +5,13 @@ Master's in Management Information Systems
 
 ### Skillset
 Languages: Python, SQL, C++, C
+
 Cloud Technologies: AWS, GCP, Azure
+
 Bigdata Technologies: Apache Kafka, Apache Spark, Apache Flink, Apache Hadoop, Apache Flume, Apache Nifi
+
 Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
+
 Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
 ### Projects
