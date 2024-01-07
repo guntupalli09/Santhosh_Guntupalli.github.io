@@ -3,22 +3,25 @@
 ### Education
 Master's in Management Information Systems
 
-### Technical Skills
-SQL| NoSQL | Python | Java | Java Script | Amazon Webservices (AWS) | GCP | Snowflake | Azure
-
+### Skillset
+Languages: Python, SQL, C++, C
+Cloud Technologies: AWS, GCP, Azure
+Bigdata Technologies: Apache Kafka, Apache Spark, Apache Flink, Apache Hadoop, Apache Flume, Apache Nifi
+Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
+Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
 ### Projects
 
-#[Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
+# [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/ )
 
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 
 Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
-
 Management Systems, API Integration, Model Evaluation, Data Visualisation
+
 Tools: Scikit-learn, TensorFlow, NLTK, Pandas, NumPy, TF-IDF Vectorizer, Jupyter Notebooks, PyCharm, Flask, GitHub
 
-#[Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
+# [Data Visualization projects]( https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes )
 
 Produced diverse data visualizations across my professional tenure and academic endeavors.
 
@@ -26,7 +29,7 @@ Skills: Data Analysis, Visualization Design, Statistical Knowledge, Storytelling
 
 Tools: Matplotlib, Tableau, Pandas, Python, SQL, NoSQL, Git, GitHub,
 
-[Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
+# [Real time Stock Market Analysis]( https://github.com/guntupalli09/stock_market-real_time-analysis )
 
 Real-time stock market analysis providing live trend indicators for informed investment decisions
 
