@@ -43,6 +43,12 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 # [Snake Game With Python](https://github.com/guntupalli09/Snake-game-with-Python)
 
+<img src="Screenshot (362).png">
+
+<img src="Screenshot 1.png">
+
+<img src="Screenshot (363).png">
+
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
 ### Certifications
