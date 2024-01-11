@@ -18,6 +18,8 @@ Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
+![MRS](assets/MRS Sample.png)
+
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 
 Skills: Machine Learning, Natural Language Processing (NLP), Python Programming, Feature Engineering, Recommendation Systems. Data Pre-processing, Database 
@@ -43,11 +45,17 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 # [Snake Game With Python](https://github.com/guntupalli09/Snake-game-with-Python)
 
-![Sample](assets/image.png)
+![Sample](assets/Snake Game 1.png)
 
 
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
+
+# [Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
+
+![Sample](assets/pong game.png)
+
+Using the NEAT algorithm to train an AI to play pong in Python!
 
 ### Certifications
 1. META Database Structures and Management with MySQL
