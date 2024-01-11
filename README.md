@@ -41,6 +41,10 @@ Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API I
 
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
+# [Snake Game With Python](https://github.com/guntupalli09/Snake-game-with-Python)
+
+Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
+
 ### Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
