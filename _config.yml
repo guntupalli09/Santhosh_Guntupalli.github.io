@@ -2,6 +2,6 @@ title: Santhosh Guntupalli
 email: santhosh.gutupalli09@gmail.comlk
 logo: assets/close_shot.png
 #description: text below image
-#show_downloads: true
-theme: jekyll-theme-Cayman
+show_downloads: true
+theme: jekyll-theme-Minimal
     
