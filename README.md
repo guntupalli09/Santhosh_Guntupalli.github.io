@@ -43,7 +43,7 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 # [Snake Game With Python](https://github.com/guntupalli09/Snake-game-with-Python)
 
-[Sample](assets/Python Pong Game-AI.mp4)
+![Sample](assets/Python Pong Game-AI.mp4)
 
 
 
