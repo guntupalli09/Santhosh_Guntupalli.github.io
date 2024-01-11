@@ -43,7 +43,7 @@ Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API I
 
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-# [Snake Game With Python](https://github.com/guntupalli09/Snake-game-with-Python)
+# [Snake Game With Python](assets/Python Snake Game.mp4)
 
 ![Sample](assets/Snake Game 1.png)
 
