@@ -45,7 +45,7 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 # [Snake Game With Python](assets/Python Snake Game.mp4)
 
-![Sample](assets/Snake Game 1.png)
+![Sample](assets/PythonSnakeGame.gif)
 
 
 
