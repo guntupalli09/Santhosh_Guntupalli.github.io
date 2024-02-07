@@ -53,7 +53,7 @@ Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming
 
 # [Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
 
-![Sample](assets/pong game.png)
+![Sample](assets/PythonPongGame-AI.gif)
 
 Using the NEAT algorithm to train an AI to play pong in Python!
 
