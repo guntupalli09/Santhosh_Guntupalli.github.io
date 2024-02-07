@@ -55,7 +55,8 @@ Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming
 
 ![Sample](assets/PythonPongGame-AI.gif)
 
-Using the NEAT algorithm to train an AI to play pong in Python!
+Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
+
 
 ### Certifications
 1. META Database Structures and Management with MySQL
