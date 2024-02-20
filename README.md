@@ -68,7 +68,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 ## Work Experience
 
-### Mphasis, New York                                                                                                                  August 2022- September 2023
+### Mphasis, New York                                                                                                                  August 2022- Present
 Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
