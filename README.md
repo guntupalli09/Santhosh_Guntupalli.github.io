@@ -48,13 +48,13 @@ Skills: Data Streaming, Cloud Services, Data Processing, Data Warehousing, API I
 
 Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, GitHub, jupyter notebook
 
-# [Snake Game With Python](assets/Python Snake Game.mp4)
+# [Snake Game With Python](assets/PythonSnakeGame.gif)
 
 <img align="center" src="assets/PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
-# [Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
+# [Pong Game- AI--using Python and Neat](assets/PythonPongGame-AI.gif)
 
 <img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
