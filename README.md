@@ -3,7 +3,7 @@
 ### <img align="center" src="assets/mortarboard.png" alt="santhoshguntupalli" height="50" width="60" /> Education
 Master's in Management Information Systems
 
-### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" />Skillset
+### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" /> Skillset
 ## Programming Languages/Frameworks <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
