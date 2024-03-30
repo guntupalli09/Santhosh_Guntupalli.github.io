@@ -1,9 +1,9 @@
 # Data Engineer
 
-### Education
+### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Education
 Master's in Management Information Systems
 
-### Skillset
+### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" />Skillset
 Languages: Python, SQL, C++, C
 
 Cloud Technologies: AWS, GCP, Azure
@@ -14,7 +14,7 @@ Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
 
 Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
-### Projects
+### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Projects
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
