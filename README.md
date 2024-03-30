@@ -1,6 +1,6 @@
 # Data Engineer
 
-### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Education
+### <img align="center" src="assets/mortarboard.png" alt="santhoshguntupalli" height="30" width="40" /> Education
 Master's in Management Information Systems
 
 ### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />Skillset
