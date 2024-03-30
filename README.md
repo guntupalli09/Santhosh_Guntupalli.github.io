@@ -4,15 +4,20 @@
 Master's in Management Information Systems
 
 ### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" />Skillset
-Languages: Python, SQL, C++, C
+## Programming Languages/Frameworks <img align="center" src="programming.png" alt="santhoshguntupalli" height="30" width="40" />:
+Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-Cloud Technologies: AWS, GCP, Azure
+### Cloud Technologies <img align="center" src="cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
+AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-Bigdata Technologies: Apache Kafka, Apache Spark, Apache Flink, Apache Hadoop, Apache Flume, Apache Nifi
+### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
+### Machine Learning<img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
+### DevOps, Monitoring, and Other Tools/Services<img align="center" src="tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
 
