@@ -1,9 +1,9 @@
 # Data Engineer
 
-### <img align="center" src="assets/mortarboard.png" alt="santhoshguntupalli" height="30" width="40" /> Education
+### <img align="center" src="assets/mortarboard.png" alt="santhoshguntupalli" height="50" width="60" /> Education
 Master's in Management Information Systems
 
-### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />Skillset
+### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" />Skillset
 Languages: Python, SQL, C++, C
 
 Cloud Technologies: AWS, GCP, Azure
@@ -14,7 +14,7 @@ Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
 
 Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
-### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="30" width="40" /> Projects
+### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
@@ -58,7 +58,7 @@ Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
 
-### <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="30" width="40" /> Certifications
+### <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
 3. META Advanced MySQL
@@ -66,7 +66,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 5. IBM Exploratory Data Analysis for Machine Learning
 6. Machine Learning Specialisation - University of Washington
 
-## <img align="center" src="assets/certificate.png" alt="santhoshguntupalli" height="30" width="40" /> Work Experience
+## <img align="center" src="assets/certificate.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
 
 ### Mphasis, New York                                                                                                                  August 2022- Present
 Position: Data Engineer
