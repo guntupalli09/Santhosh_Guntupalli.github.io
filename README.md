@@ -4,19 +4,19 @@
 Master's in Management Information Systems
 
 ### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" />Skillset
-## Programming Languages/Frameworks <img align="center" src="programming.png" alt="santhoshguntupalli" height="30" width="40" />:
+## Programming Languages/Frameworks <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
-### Cloud Technologies <img align="center" src="cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Cloud Technologies <img align="center" src="assets/cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
-### Big Data and Data Engineering Tools/Services <img align="center" src="big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Big Data and Data Engineering Tools/Services <img align="center" src="assets/big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-### Machine Learning<img align="center" src="machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services<img align="center" src="tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+### DevOps, Monitoring, and Other Tools/Services<img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
