@@ -14,7 +14,7 @@ Development and Tools: Docker, Kubernetes, Jenkins, Git, GitHub, REST API, Unix
 
 Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
-### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Projects
+### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="30" width="40" /> Projects
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
