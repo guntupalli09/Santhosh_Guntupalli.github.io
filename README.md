@@ -3,7 +3,7 @@
 ### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" /> Education
 Master's in Management Information Systems
 
-### <img align="center" src="pencil.png" alt="santhoshguntupalli" height="30" width="40" />Skillset
+### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />Skillset
 Languages: Python, SQL, C++, C
 
 Cloud Technologies: AWS, GCP, Azure
