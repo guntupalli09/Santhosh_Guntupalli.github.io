@@ -18,7 +18,7 @@ Machine Leaning and AI: Scikit-learn, TensorFlow, Predictive Analysis, NLP
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
-![MRS](assets/MRS Sample.png)
+<img align="right" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 
@@ -45,15 +45,13 @@ Tools: Kafka, Amazon EC2, Amazon S3, Crawler, AWS Glue Datalog, Amazon Athena, G
 
 # [Snake Game With Python](assets/Python Snake Game.mp4)
 
-![Sample](assets/PythonSnakeGame.gif)
-
-
+<img align="center" src="assets/PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming and event handling. Excels in problem-solving, logical thinking, and attention to detail
 
 # [Pong Game- AI--using Python and Neat](assets/Python Pong Game-AI.mp4)
 
-![Sample](assets/PythonPongGame-AI.gif)
+<img align="center" src="assets/PythonPongGame-AI.gif" alt="santhoshguntupalli" height="200" width="400" />
 
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
