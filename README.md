@@ -16,7 +16,7 @@ Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, Map
 ### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services<img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
+### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
