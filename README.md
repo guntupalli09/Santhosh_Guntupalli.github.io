@@ -23,7 +23,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
-<img align="right" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
+<img align="center" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
 
 Created a Movie Recommendation System that suggests films based on a chosen movie selection.
 
