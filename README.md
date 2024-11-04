@@ -94,7 +94,7 @@ Implemented robust data quality checks, security measures, CI/CD workflows, and 
 Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
 Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
-### LTI Mindtree, Hyderabad, India                                                                                                      [September 2019- August 2022]
+### LTI Mindtree, Hyderabad                                                                                                                                 [September 2019- August 2022]
 Position: Data Engineer
 
 Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
