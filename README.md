@@ -70,7 +70,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 6. Machine Learning Specialisation - University of Washington
 
 ## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
-### FedEx Dataworks, Remote                                                                                                            May 2024 - Present
+### FedEx Dataworks, Remote                                                                                                            [May 2024 - Present]
 Position: Data Engineer II
 
 Developed and implemented a strategic costs calculator tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, achieving significant annual savings and offering leadership insights for cost optimization and efficiency.
@@ -82,7 +82,7 @@ Provided detailed data analytics for geographic segmentation, utilizing Unity Ca
 Leveraged expertise in multi-cloud environments (Azure and GCP) to establish streamlined workflows and interoperability, enabling high-performance data operations that support ongoing analysis and forecasting.
 Strengthened cross-functional collaboration by working with development, UI/UX, DevOps, and data science teams to ensure seamless integration and deployment cycles. Delivered strategic insights and actionable recommendations through detailed reporting to senior leadership.
 
-### Mphasis, New York                                                                                                                  August 2022- September 2023
+### Mphasis, New York                                                                                                                  [August 2022- September 2023]
 Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
@@ -94,7 +94,7 @@ Implemented robust data quality checks, security measures, CI/CD workflows, and 
 Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
 Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
-### LTI Mindtree, Hyderabad, India                                                                                                      September 2019- August 2022
+### LTI Mindtree, Hyderabad, India                                                                                                      [September 2019- August 2022]
 Position: Data Engineer
 
 Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
