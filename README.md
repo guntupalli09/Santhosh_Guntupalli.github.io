@@ -71,7 +71,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 ## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
 ### FedEx Dataworks, Remote                                                                                                            [May 2024 - Present]
-Position: Data Engineer II
+#### Position: Data Engineer II
 
 Developed and implemented a strategic costs calculator tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, achieving significant annual savings and offering leadership insights for cost optimization and efficiency.
 Led comprehensive ETL pipeline development in ADF, using Azure Events for real-time data triggers. Managed and structured metadata with Unity Catalog, ensuring scalable, accurate data ingestion and transformation processes to support strategic decision-making.
@@ -83,7 +83,7 @@ Leveraged expertise in multi-cloud environments (Azure and GCP) to establish str
 Strengthened cross-functional collaboration by working with development, UI/UX, DevOps, and data science teams to ensure seamless integration and deployment cycles. Delivered strategic insights and actionable recommendations through detailed reporting to senior leadership.
 
 ### Mphasis, New York                                                                                                                  [August 2022- September 2023]
-Position: Data Engineer
+#### Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
 Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
@@ -95,7 +95,7 @@ Derived actionable insights using Python, R, and machine learning, contributing 
 Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
 ### LTI Mindtree, Hyderabad                                                                                                                                 [September 2019- August 2022]
-Position: Data Engineer
+#### Position: Data Engineer
 
 Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
 Loaded 50 petabytes into Amazon Redshift and Google BigQuery, elevating analytics and reporting speed by 40%.
