@@ -71,6 +71,8 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 ## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
 ### FedEx Dataworks, Remote                                                                                                            May 2024 - Present
+Position: Data Engineer II
+
 Developed and implemented a strategic costs calculator tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, achieving significant annual savings and offering leadership insights for cost optimization and efficiency.
 Led comprehensive ETL pipeline development in ADF, using Azure Events for real-time data triggers. Managed and structured metadata with Unity Catalog, ensuring scalable, accurate data ingestion and transformation processes to support strategic decision-making.
 Utilized PySpark, Scala, and Advanced SQL for large-scale data processing and analysis in Databricks, producing accurate, actionable cost insights that influenced critical business decisions.
