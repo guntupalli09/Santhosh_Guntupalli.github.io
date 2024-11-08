@@ -1,25 +1,25 @@
 # Data Engineer
 
-### <img align="center" src="assets/mortarboard.png" alt="santhoshguntupalli" height="50" width="60" /> Education
+###  Education
 Master's in Management Information Systems
 
-### <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="50" width="60" /> Skillset
-## Programming Languages/Frameworks <img align="center" src="assets/programming.png" alt="santhoshguntupalli" height="30" width="40" />:
-Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
+### Skillset
+## Programming Languages/Frameworks :
+SQL, Python, Java, JavaScript, Scala, R, Pyspark
 
-### Cloud Technologies <img align="center" src="assets/cloud.png" alt="santhoshguntupalli" height="30" width="40" />:
-AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
+### Cloud Technologies :
+Azure, Amazon Web Services, Google Cloud Platform, Snowflake, Docker, Kubernetes
 
-### Big Data and Data Engineering Tools/Services <img align="center" src="assets/big-data.png" alt="santhoshguntupalli" height="30" width="40" />:
-Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, Google BigQuery, Elasticsearch, HDFS, Metastore
+### Big Data and Data Engineering Tools/Services :
+Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, Google BigQuery, Elasticsearch, HDFS, Metastore
 
-### Machine Learning<img align="center" src="assets/machine-learning.png" alt="santhoshguntupalli" height="30" width="40" />:
+### Machine Learning:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services <img align="center" src="assets/tool-box.png" alt="santhoshguntupalli" height="30" width="40" />:
-Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
+### DevOps, Monitoring, and Other Tools/Services:
+Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell UI/UX, Bash, Pub/Sub, , PyCharm.</strong></p>
 
-### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
+###  Projects
 
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
@@ -61,7 +61,7 @@ Created a dynamic Snake Game using Tkinter, showcasing skills in GUI programming
 Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI model is trained to play Pong in Python. NEAT evolves neural networks, enhancing their structure and weights over generations. The trained AI learns to play Pong autonomously through reinforcement learning, optimizing its performance to maximize gameplay proficiency.
 
 
-### <img align="center" src="assets/certificate.png" alt="santhoshguntupalli" height="50" width="60" /> Certifications
+### Certifications
 1. META Database Structures and Management with MySQL
 2. META Version Control
 3. META Advanced MySQL
@@ -69,7 +69,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 5. IBM Exploratory Data Analysis for Machine Learning
 6. Machine Learning Specialisation - University of Washington
 
-## <img align="center" src="assets/career.png" alt="santhoshguntupalli" height="50" width="60" /> Work Experience
+## Work Experience
 ### FedEx Dataworks, Remote                                                                                                            [May 2024 - Present]
 #### Position: Data Engineer II
 
