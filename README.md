@@ -4,7 +4,7 @@
 Master's in Management Information Systems
 
 ## Skillset
-### Programming Languages/Frameworks :
+### Programming Languages/Frameworks:
 SQL, Python, Java, JavaScript, Scala, R, Pyspark
 
 ### Cloud Technologies :
