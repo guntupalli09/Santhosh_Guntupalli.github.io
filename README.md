@@ -3,8 +3,8 @@
 ###  Education
 Master's in Management Information Systems
 
-### Skillset
-## Programming Languages/Frameworks :
+## Skillset
+### Programming Languages/Frameworks :
 SQL, Python, Java, JavaScript, Scala, R, Pyspark
 
 ### Cloud Technologies :
@@ -16,8 +16,11 @@ Spark, Kafka, Hadoop, Hive, Airflow, Nifi, Teradata, Amazon RedShift, MapReduce,
 ### Machine Learning:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
 
-### DevOps, Monitoring, and Other Tools/Services:
-Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell UI/UX, Bash, Pub/Sub, , PyCharm.</strong></p>
+### Data Visualisation
+Power BI, Tableau, Looker, Qlik
+
+### DevOps, Monitoring:
+Jenkins, JIRA, Confluence, GitHub, Git
 
 ###  Projects
 
