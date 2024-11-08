@@ -73,26 +73,14 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 ### FedEx Dataworks, Remote                                                                                                            [May 2024 - Present]
 #### Position: Data Engineer II
 
-Developed and implemented a strategic costs calculator tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, achieving significant annual savings and offering leadership insights for cost optimization and efficiency.
-Led comprehensive ETL pipeline development in ADF, using Azure Events for real-time data triggers. Managed and structured metadata with Unity Catalog, ensuring scalable, accurate data ingestion and transformation processes to support strategic decision-making.
-Utilized PySpark, Scala, and Advanced SQL for large-scale data processing and analysis in Databricks, producing accurate, actionable cost insights that influenced critical business decisions.
-Integrated and optimized multiple data sources for cohesive analysis, working closely with UI/UX and API teams to establish real-time access, enhancing data accessibility for leadership and cross-functional teams.
-Automated critical cost metrics for fuel burn, landing fees, and block time calculations using Python in Databricks. Collaborated with DevOps to package these processes in Docker, ensuring consistent, efficient execution.
-Provided detailed data analytics for geographic segmentation, utilizing Unity Catalog and Power BI to present region-specific trends and support informed, data-driven decision-making for business growth.
-Leveraged expertise in multi-cloud environments (Azure and GCP) to establish streamlined workflows and interoperability, enabling high-performance data operations that support ongoing analysis and forecasting.
-Strengthened cross-functional collaboration by working with development, UI/UX, DevOps, and data science teams to ensure seamless integration and deployment cycles. Delivered strategic insights and actionable recommendations through detailed reporting to senior leadership.
+Developed and implemented a strategic cost optimization tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, driving significant annual savings and providing leadership insights for cost optimization and efficiency.
 
-### Mphasis, New York                                                                                                                  [August 2022- September 2023]
-#### Position: Data Engineer
+Led comprehensive ETL pipeline development in ADF, using Azure Events for real-time data triggers, and managed and structured metadata with Unity Catalog, ensuring scalable, accurate data ingestion and transformation processes that support strategic decision-making.
 
-Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
-Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
+Utilized PySpark, Scala, and Advanced SQL for large-scale data processing and analysis in Databricks, producing accurate, actionable insights that influenced critical business decisions and supported operational efficiency.
 
-Employed Apache Hadoop, Apache Hive, and cloud-based services (AWS, GCP, Azure) for improved accessibility, reduced query latency by 40%, and managed over 1,000 data workflows securely.
-Implemented robust data quality checks, security measures, CI/CD workflows, and orchestration strategies, resulting in a 30% increase in scalability and real-time system visibility.
+Integrated and optimized multiple data sources for cohesive analysis, utilizing Power BI and Unity Catalog for detailed reporting and geographic segmentation, enhancing data accessibility and enabling informed, data-driven decision-making across Azure and GCP environments.
 
-Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
-Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
 
 ### LTI Mindtree, Hyderabad                                                                                                                                 [September 2019- August 2022]
 #### Position: Data Engineer
