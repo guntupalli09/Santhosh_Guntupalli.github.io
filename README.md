@@ -11,7 +11,7 @@ SQL, Python, Java, JavaScript, Scala, R, Pyspark
 Azure, Amazon Web Services, Google Cloud Platform, Snowflake, Docker, Kubernetes
 
 ### Big Data and Data Engineering Tools/Services :
-Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, Amazon S3, Databricks, Azure Data Factory (ADF), Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, Google BigQuery, Elasticsearch, HDFS, Metastore
+Spark, Kafka, Hadoop, Hive, Airflow, Nifi, Teradata, Amazon RedShift, MapReduce, Flume, Flink, Informatica, Talend, ELK Stack, Google BigQuery, Elasticsearch, Metastore
 
 ### Machine Learning:
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s 
