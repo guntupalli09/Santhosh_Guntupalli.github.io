@@ -73,7 +73,7 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 6. Machine Learning Specialisation - University of Washington
 
 ## Work Experience
-### FedEx Dataworks, Remote                                                                                                            [May 2024 - Present]
+### FedEx Dataworks| Remote                                                                                                            [May 2024 - Present]
 #### Position: Data Engineer II
 
 Developed and implemented a strategic cost optimization tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, driving significant annual savings and providing leadership insights for cost optimization and efficiency.
@@ -84,8 +84,14 @@ Utilized PySpark, Scala, and Advanced SQL for large-scale data processing and an
 
 Integrated and optimized multiple data sources for cohesive analysis, utilizing Power BI and Unity Catalog for detailed reporting and geographic segmentation, enhancing data accessibility and enabling informed, data-driven decision-making across Azure and GCP environments.
 
+### CVS Health | Dallas, tx                                                                                                              [March 2024 - June 2024]
+Leveraged data analytics to drive improvements in patient outcomes, streamline operations, and support strategic decision-making. Collected and integrated data from multiple sources, including electronic health records (EHR), patient management systems, and financial databases. Performed complex queries and data aggregation, while using Python for in-depth analysis and statistical modeling. Developed interactive dashboards and reports using Power BI, Tableau, and Looker, providing stakeholders with actionable insights on key performance indicators, such as patient wait times, treatment effectiveness, and resource allocation.
 
-### LTI Mindtree, Hyderabad                                                                                                                                 [September 2019- August 2022]
+Responsible for ensuring data compliance with healthcare regulations, such as HIPAA, to maintain data security and patient privacy. I implemented data governance practices to ensure data accuracy and accessibility, which involved regular audits and collaboration with cross-functional teams. I also provided ongoing performance monitoring and reporting, analyzing trends to offer insights that informed clinical decision-making and improved care quality. Working closely with clinical, administrative, and IT teams, I delivered reports that were crucial for compliance and operational efficiencies.
+
+I worked extensively within cloud environments like Azure, AWS, and Google Cloud to manage vast healthcare datasets and enable cross-functional collaboration. Built data warehouses, applied machine learning models for predictive analytics, and supported compliance efforts. Transformed complex data into impactful recommendations, enhancing both patient care and operational efficiencies.
+
+### LTI Mindtree| Hyderabad                                                                                                                                 [September 2019- August 2022]
 #### Position: Data Engineer
 
 Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
