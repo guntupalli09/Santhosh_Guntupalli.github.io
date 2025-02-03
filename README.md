@@ -74,30 +74,41 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 
 ### FedEx Dataworks, Remote                                                                                                                     June 2024 - Present
+Position: Data Engineer II
+
+•	Developed and implemented a strategic cost calculator tool using Databricks, ADF, Event Hubs, Docker, Kubernetes, and ADLS Gen 2, achieving significant annual savings and offering leadership insights for cost optimization and efficiency.
+•	ETL pipeline development in ADF, using Azure Events for real-time data triggers. Managed and structured metadata with Unity Catalog, ensuring scalable, accurate data ingestion and transformation processes to support strategic decision-making.
+•	Utilized PySpark, Scala, and Advanced SQL for large-scale data processing and analysis in Databricks, producing accurate, actionable cost insights that influenced critical business decisions.
+•	Integrated and optimized multiple data sources for cohesive analysis, working closely with UI/UX and API teams to establish real-time access, enhancing data accessibility for leadership and cross-functional teams.
+•	Automated critical cost metrics for fuel burn, landing fees, and block time calculations using Python in Databricks. 
+•	Provided detailed data analytics for geographic segmentation, utilizing Unity Catalog and Power BI to present region-specific trends and support informed, data-driven decision-making for business growth.
+•	Leveraged expertise in multi-cloud environments (Azure and GCP) to establish streamlined workflows and interoperability, enabling high-performance data operations that support ongoing analysis and forecasting.
+•	Strengthened cross-functional collaboration by working with development, UI/UX, DevOps, and data science teams to ensure seamless integration and deployment cycles.
+
 ### Vedhops It Services,Remote                                                                                                                  March 2024- june 2024
 Position: Data Engineer
 
-Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
-Handled 100 terabytes of data transformation into Amazon Redshift and Google BigQuery, ensuring integrity via Talend and Apache NiFi while optimizing query performance for various DBMS.
-
-Employed Apache Hadoop, Apache Hive, and cloud-based services (AWS, GCP, Azure) for improved accessibility, reduced query latency by 40%, and managed over 1,000 data workflows securely.
-Implemented robust data quality checks, security measures, CI/CD workflows, and orchestration strategies, resulting in a 30% increase in scalability and real-time system visibility.
-
-Derived actionable insights using Python, R, and machine learning, contributing to a 15% increase in data-driven decision-making while leveraging Databricks for a 25% speed increase in big data processing.
-Collaborated cross-functionally, designing APIs, leading A/B testing, and contributing significantly to machine learning/statistical model development, enhancing operational efficiency and customer satisfaction.
+•	Improved computational efficiency by 20% through optimization strategies in distributed and cloud environments.
+•	Deployed and maintained 3 cloud-based data engineering solutions, contributing to a 15% increase in data product usability.
+•	Led large-scale data engineering projects using Azure Databricks, Azure Data Factory, Azure SQL D, and Azure Synapse Analytics, achieving a 25% improvement in deployment efficiency.
+•	Implemented Azure Databricks workflows, reducing data processing time by 30% and enhancing overall system reliability.
+•	Developed and operationalized capabilities for near real-time high-volume streaming, achieving a 40% reduction in data processing latency.
+•	Designed and deployed large-scale technical solutions, resulting in a 30% improvement in overall system performance.
+•	Implemented automated testing frameworks, reducing software defects by 15% and improving overall system reliability.
+•	Spearheaded the migration of legacy systems to cloud-native architectures, achieving a 30% improvement in scalability and resource utilization.
+•	Proficient in leveraging AWS services, including EC2, S3, and AWS Lambda, for scalable and cost-effective cloud infrastructure.
 
 ### LTI Mindtree, Hyderabad, India                                                     September 2019- August 2022
 Position: Data Engineer
 
-Managed 100 terabytes of diverse data utilizing Apache Spark, Kafka, and Hadoop, achieving a 35% increase in data processing efficiency.
-Loaded 50 petabytes into Amazon Redshift and Google BigQuery, elevating analytics and reporting speed by 40%.
-
-Collaborated with 15 teams to optimize data models, resulting in a 25% boost in retrieval speed and a 20% reduction in storage expenses.
-Attained a 30% increase in query performance via SQL fine-tuning, indexing, and partitioning strategies.
-
-Automated 50 data workflows, reducing manual effort by 30% and enhancing pipeline monitoring efficiency.
-Oversaw 10 data warehousing solutions, increasing analytics speed by 50%, while handling 20 data streams for real-time processing, reducing processing time by 40%. Additionally, leveraged Python, R, and machine learning to develop 30 predictive models, achieving a 15% improvement in prediction accuracy.
-
+•	Designed and implemented robust ETL pipelines using Azure Data Factory and AWS Glue to aggregate data from multiple sources, ensuring efficient data transformation and loading into Azure SQL Data Warehouse and Amazon Redshift.
+•	Optimized data workflows within Azure SQL Data Warehouse and Amazon Redshift, leveraging Databricks for data transformation and analysis, achieving a 30% reduction in processing time and enabling more timely insights for business decision-making
+•	Conducted data analysis, investigation, and lineage studies, leading to a 15% enhancement in data quality and access.
+•	Demonstrated expertise in Spark, Kafka, and other high-volume data tools, achieving a 20% increase in data processing efficiency.
+•	Utilized SQL and NoSQL storage tools, achieving a 15% improvement in database query performance.
+•	Worked with different data types (JSON, XML, Parquet, Avro) for both batch and streaming ingestions, achieving a 25% reduction in data processing errors.
+•	Developed and implemented alerting and monitoring frameworks, Infrastructure as Code (IaC) through Terraform, and data integration through APIs and/or REST services, contributing to a 20% increase in system reliability. 
+•	Enhanced data security measures through the implementation of encryption protocols, resulting in a 25% reduction in security incidents.
 
 
 
