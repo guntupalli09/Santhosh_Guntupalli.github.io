@@ -73,8 +73,8 @@ Utilizing the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, an AI mo
 
 
 
-### FedEx Dataworks, Remote June 2024 - Present
-### Mphasis, New York                                                                                                                  March 2024- june 2024
+### FedEx Dataworks, Remote                                                                                                                     June 2024 - Present
+### Vedhops It Services,Remote                                                                                                                  March 2024- june 2024
 Position: Data Engineer
 
 Processed and analyzed 50 petabytes of diverse streaming data using Apache Spark, Apache Flink, and Apache Kafka.
