@@ -62,7 +62,7 @@ Then, you export it all in Markdown, PDF, or CSV
 
 ---
 
-## ⚡ GetGetLeads – AI Marketing Suite
+## ⚡ GetGetLeads – AI Digital Marketing Agent
 <img src="assets/dashboard-GGL.png" width="500" alt="GetGetLeads" />
 
 **GetGetLeads** is a powerful, AI-enhanced marketing automation platform built for modern teams and growth-focused individuals. It helps you generate and manage leads, track marketing performance, automate campaigns, and optimize SEO — all from a clean, intuitive dashboard.
@@ -80,17 +80,20 @@ Whether you're a solo founder, marketing team, or agency, GetGetLeads simplifies
 - **Campaign Automation** – Schedule and automate posts, emails, and outreach
 - **Customer CRM** – Manage contacts, notes, and communication history
 - **Social Media Automation** - upload social media content post, including tags based on users, interest, and schedule times
+
 ---
+
 **Stack:** React · Supabase · Tailwind · OpenAI
 
 ---
 
-## ✈️ GetGetPlaces – AI Travel Planner
+## ✈️ GetGetPlaces – AI Travel Planning Agent
 <img src="assets/Homepage-GGP.png" width="500" alt="GetGetPlaces" />
 
 An intelligent NLP-powered travel planning platform with real-time weather, pricing, and smart routing.
+Engineered a full-stack AI/ML solution for real-time personalized itinerary generation, synthesizing multi-source APIs (weather, hotel, transport) using time-series analysis, Location and optimization models, demonstrating scalable predictive analytics deployment
 
-**Stack:** PostgreSQL · ARIMA · OpenWeatherMap · LangChain
+---
 
 **Key Features:**
 - Natural language trip planning: “Plan 5-day Miami trip with $1500”
@@ -99,25 +102,36 @@ An intelligent NLP-powered travel planning platform with real-time weather, pric
 - Smart daily itineraries with weather forecasts
 - PostgreSQL backend for trip data
 
+---
+
 **Example Use:**
 > “Plan a 7-day Orlando trip under $2500 focusing on theme parks and food” → Output: Day-wise schedule, attractions, maps, travel tips
+---
+
+**Stack:** PostgreSQL · ARIMA · OpenWeatherMap · LangChain
 
 ---
 
 ## 🎬 [Movie Recommender](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 <img src="assets/MRS Sample.png" width="500" alt="Movie Recommendation Engine" />
 
-An NLP-based content recommender system using TF-IDF and cosine similarity.
+Built a content-based movie recommendation system using Python, Scikit-Learn, TensorFlow, NLTK, Pandas, and NumPy, applying NLP and similarity matching algorithms to analyze structured/unstructured data and generate personalized predictions.
 
-**Tech Stack:** Flask · NLTK · Pandas · Scikit-learn · TF-IDF Vectorizer
+---
 
 **Features:**
 - Content-based filtering on movie descriptions
 - Enter a movie → Get top 5 similar films instantly
 - Web app interface with Heroku deployment
+  
+---
 
 **Example Use:**
 > Input: “The Matrix” → Output: Sci-fi action recommendations like “Equilibrium”, “Inception”, etc.
+
+---
+
+**Stack:** Flask · NLTK · Pandas · Scikit-learn · TF-IDF Vectorizer
 
 ---
 
@@ -126,10 +140,14 @@ An NLP-based content recommender system using TF-IDF and cosine similarity.
 
 A classic Snake game made using Python’s Tkinter GUI toolkit.
 
+---
+
 **Highlights:**
 - Real-time movement and key-driven controls
 - Score tracking and collision detection
 - Minimalistic interface
+
+---
 
 **Example Use:**
 > Launch the app → Arrow keys to control → Eat food to grow → Avoid crashing into walls
@@ -141,23 +159,29 @@ A classic Snake game made using Python’s Tkinter GUI toolkit.
 
 Trains an AI to play Pong using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm.
 
-**Tech Stack:** Python · NEAT-Python
+---
 
 **Features:**
 - Evolution of neural networks via reinforcement
 - AI adapts its paddle response to opponent's movement
 - Visualization of evolving agent skill
 
+---
+
 **Example Use:**
 > Launch → Watch AI learn after several generations → Compete against the bot
 
 ---
 
-## 📈 Real-Time Stock Dashboard
+**Stack:** Python · NEAT-Python
 
-A real-time pipeline for streaming stock insights and analytics using modern cloud data tools.
+---
 
-**Stack:** AWS EC2 · Glue · Kafka · Athena · S3
+## 📈 Real-Time Stock Market Analysis System 
+
+Designed a live stock market trend prediction pipeline using AWS services (EC2, S3, Glue, Athena) and Kafka, building real-time data streaming architectures to deliver predictive investment insights.
+
+---
 
 **Features:**
 - Live data ingestion via Kafka
@@ -165,8 +189,14 @@ A real-time pipeline for streaming stock insights and analytics using modern clo
 - Query using Athena and visualize in dashboards
 - Use case: financial alerting, intraday trend monitoring
 
+---
+
 **Example Use:**
 > Track tickers like AAPL, TSLA → Receive moving averages, trend shifts → Query on demand via Athena
+
+---
+
+**Stack:** AWS EC2 · Glue · Kafka · Athena · S3
 
 ---
 
