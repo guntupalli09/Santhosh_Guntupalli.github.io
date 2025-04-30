@@ -7,8 +7,7 @@ title: About Me
 <h3 align="center">Data Engineer | AI/ML Specialist | Cloud & BI Architect</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/santhoshguntupalli">🔗 LinkedIn</a> |
-  <a href="mailto:santhosh.guntupalli09@gmail.com">📬 Email</a> |
-  <a href="https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes">📊 Tableau</a>
+  <a href="mailto:santhosh.guntupalli09@gmail.com">📬 Email</a> 
 </p>
 
 ---
