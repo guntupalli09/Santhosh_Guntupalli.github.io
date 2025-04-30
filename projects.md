@@ -63,5 +63,5 @@ Live data processing pipeline using AWS + Kafka
 **Stack:** AWS EC2 · Glue · S3 · Athena · Kafka
 
 ---
-
+🏠 [Back to Home](index.md)
 📄 [Back to Experience](experience.md) | [Contact](contact.md)
