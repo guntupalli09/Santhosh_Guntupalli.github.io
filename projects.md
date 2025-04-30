@@ -2,6 +2,7 @@
 layout: default
 title: Projects
 ---
+{% include header.md %}
 
 # 🚀 Featured Projects
 
