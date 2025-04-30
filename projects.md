@@ -81,9 +81,6 @@ Whether you're a solo founder, marketing team, or agency, GetGetLeads simplifies
 - **Customer CRM** – Manage contacts, notes, and communication history
 - **Social Media Automation** - upload social media content post, including tags based on users, interest, and schedule times
 ---
-
-## 
-
 **Stack:** React · Supabase · Tailwind · OpenAI
 
 ---
