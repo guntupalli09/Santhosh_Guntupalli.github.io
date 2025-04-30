@@ -3,6 +3,9 @@ layout: default
 title: Experience
 ---
 
+{% include header.md %}
+
+
 # 💼 Experience, Skills & Certifications
 
 A quick glance at my background, technical capabilities, and credentials that position me in the top 1% of Data Engineers and AI Specialists.
