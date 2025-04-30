@@ -143,7 +143,6 @@ AI learns autonomously through reinforcement learning, optimizing its performanc
 ---
 
 ## 📜 Certifications
-<img src="assets/certificate.png" alt="Certifications" height="30" />
 
 1. META: Database Structures and Management with MySQL  
 2. META: Version Control  
@@ -155,7 +154,6 @@ AI learns autonomously through reinforcement learning, optimizing its performanc
 ---
 
 ## 💼 Work Experience
-<img src="assets/career.png" alt="Career" height="30" />
 
 ### **FedEx Dataworks – Data Engineer II (Remote)**  
 *June 2024 – Present*  
