@@ -54,6 +54,8 @@ GetGetLeads is an AI-powered marketing platform designed to streamline lead gene
 
 # ✈️🚙🏨GetGetPlaces - From idea to itinerary — AI-crafted travel made effortless.
 
+<img align="center" src="assets/Homepage-GGP.png" alt="santhoshguntupalli" height="200" width="400" />
+
 Your personal AI agent to plan smart, weather-aware, budget-friendly trips — effortlessly.
 
 ## ⭐ Features
