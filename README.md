@@ -22,7 +22,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 ### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
 
 # GhostWriter Teams
-<img align="center" src="Assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
+<img align="center" src="assets/GW-content calender.png" alt="santhoshguntupalli" height="200" width="400" />
 Ghostwriter Teams is an AI-powered collaborative writing assistant that simulates a creative marketing team using local large language models (via Ollama) and LangChain agents. Built with Streamlit, the app lets users brainstorm, critique, and generate content calendars with the help of five specialized AI agents:
 
 🎨 Zara – Creative strategist (hooks, themes, story arcs)
