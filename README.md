@@ -1,8 +1,6 @@
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
 <h3 align="center">Top 1% Data Engineer | AI Specialist | Cloud Architect | BI Strategist</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
