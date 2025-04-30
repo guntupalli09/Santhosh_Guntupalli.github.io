@@ -5,11 +5,6 @@ title: About Me
 
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
 <h3 align="center">Data Engineer | AI/ML Specialist | Cloud & BI Architect</h3>
-
-<p align="center">
-  <img src="assets/dp2.jpg" width="250" alt="Santhosh Guntupalli Profile Image"/>
-</p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/santhoshguntupalli">🔗 LinkedIn</a> |
   <a href="mailto:santhosh.guntupalli09@gmail.com">📬 Email</a> |
