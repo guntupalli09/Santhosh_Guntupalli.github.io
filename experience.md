@@ -13,22 +13,24 @@ A quick glance at my background, technical capabilities, and credentials that po
 
 ### 🟣 FedEx Dataworks – Data Engineer II *(Remote)*  
 **June 2024 – Present**  
-- Designed Databricks cost analytics platform using PySpark + Unity Catalog  
-- Built real-time pipelines using Azure Event Hub  
-- Architected Azure + GCP multi-cloud workflows  
-- Automated KPI dashboards in Power BI
+- Developed and maintained scalable cloud-based analytics platforms using Databricks and PySpark  
+- Built real-time event-driven pipelines to support operational and strategic decision-making  
+- Designed multi-cloud data architectures integrating Azure and GCP services  
+- Delivered interactive KPI dashboards in Power BI to inform executive leadership
 
 ### 🟢 Vedhops IT Services – Data Engineer *(Remote)*  
 **March 2024 – June 2024**  
-- Built streaming data pipelines (ADF, Azure Synapse, Kafka)  
-- Improved system latency by 40%  
-- Led migration to cloud-native architecture using Terraform
+- Engineered high-throughput streaming pipelines using Azure Synapse, ADF, and Kafka  
+- Enhanced system performance and reduced processing latency by optimizing architecture  
+- Spearheaded the transition to cloud-native infrastructure, improving scalability and automation  
+- Contributed to advanced analytics initiatives by enabling reliable, real-time data access
 
 ### 🔵 LTI Mindtree – Data Engineer *(India)*  
 **Sept 2019 – Aug 2022**  
-- Delivered robust ETL pipelines using AWS Glue and Azure Data Factory  
-- Optimized transformation logic with Spark and Redshift  
-- Developed infrastructure monitoring with Terraform
+- Designed and implemented large-scale ETL workflows for structured and semi-structured data  
+- Supported data science and BI teams with clean, accessible, and high-performance datasets  
+- Developed infrastructure and monitoring solutions to ensure data reliability and compliance  
+- Collaborated with cross-functional teams to integrate data into ML pipelines and reporting layers
 
 ---
 
