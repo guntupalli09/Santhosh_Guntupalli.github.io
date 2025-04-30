@@ -5,28 +5,30 @@ title: Contact
 
 # 📫 Contact Me
 
-If you're interested in collaboration, hiring, speaking opportunities, or just want to connect — feel free to reach out through any of the channels below:
+Interested in collaborating, hiring, or just connecting? Reach out below!
 
 ---
 
 ## 💼 Professional Links
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/santhoshguntupalli) — Let's connect professionally
-- 📧 [Email Me](mailto:santhosh.guntupalli09@gmail.com) — I'll respond within 24–48 hours
-- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes) — Data dashboards and visual work
-- 🧠 [GitHub](https://github.com/guntupalli09) — Source code and AI/ML projects
+- 🔗 [LinkedIn](https://www.linkedin.com/in/santhoshguntupalli)  
+- 📧 [Email Me](mailto:santhosh.guntupalli09@gmail.com)  
+- 📊 [Tableau Portfolio](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)  
+- 💻 [GitHub](https://github.com/guntupalli09)
 
 ---
 
-## 🌍 Location & Availability
+## 🌍 Availability
 
-- 📍 Based in the USA (open to remote or hybrid roles globally)
-- 🕒 Available for full-time roles, consulting projects, or technical mentorship
+- 📍 Based in the USA (open to remote/hybrid globally)  
+- 🕒 Open to full-time roles, consulting, or speaking opportunities
 
 ---
 
-## 📣 Let's Build Something Amazing
+## 🤝 Let’s Connect
 
-Whether you're hiring a top-tier data engineer, launching a new product, or scaling an ML pipeline — I'm open to working on meaningful, impactful problems.
+Have a problem worth solving or a role that fits? I'm all ears — let’s build something impactful together!
 
-Feel free to send me a message!
+---
+
+🏠 [Back to Home](index.md)
