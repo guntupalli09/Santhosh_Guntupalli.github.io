@@ -61,9 +61,9 @@ A quick glance at my background, technical capabilities, and credentials that po
 
 - ✅ META: Database Structures and Advanced MySQL  
 - ✅ META: Version Control  
-- 🎓 Prompt Engineering for ChatGPT – Vanderbilt University  
-- 📊 IBM: Exploratory Data Analysis for Machine Learning  
-- 🤖 ML Specialization – University of Washington  
+- ✅ Prompt Engineering for ChatGPT – Vanderbilt University  
+- ✅ IBM: Exploratory Data Analysis for Machine Learning  
+- ✅ ML Specialization – University of Washington  
 
 ---
 🏠 [Back to Home](index.md)
