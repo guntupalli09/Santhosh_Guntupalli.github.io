@@ -64,5 +64,5 @@ A quick glance at my background, technical capabilities, and credentials that po
 - 🤖 ML Specialization – University of Washington  
 
 ---
-    [← Back to Home](index.md)
+🏠 [Back to Home](index.md)
 🔗 [Back to Projects](projects.md) | [Contact Me](contact.md)
