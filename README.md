@@ -54,7 +54,7 @@ An AI-powered collaborative writing assistant that simulates a creative marketin
 
 ---
 
-### 🚀 GetGetLeads  
+### 🚀 GetGetLeads - AI Digital Marketing Agent
 <img src="assets/dashboard-GGL.png" alt="GetGetLeads" width="400" />  
 An AI-powered marketing platform to streamline lead generation, automate workflows, and manage social media engagement.
 
@@ -69,7 +69,7 @@ An AI-powered marketing platform to streamline lead generation, automate workflo
 
 ---
 
-### ✈️ GetGetPlaces  
+### ✈️ GetGetPlaces - AI Travel Agent
 <img src="assets/Homepage-GGP.png" alt="GetGetPlaces" width="400" />  
 Your personal AI agent to plan smart, weather-aware, budget-friendly trips — effortlessly.
 
