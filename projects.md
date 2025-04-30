@@ -3,9 +3,6 @@ layout: default
 title: Projects
 ---
 
-<p align="center">
-  <img src="assets/dp2.jpg" width="150" alt="Santhosh Guntupalli" />
-</p>
 
 <p align="center">
   <a href="index.md">← Back to Home</a>
