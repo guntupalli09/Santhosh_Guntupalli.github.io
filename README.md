@@ -37,6 +37,19 @@ Editable, exportable calendars with strategic agent feedback
 Multilingual output and local-first processing (no API keys needed)
 Interactive UI for selecting agents, downloading kits, and comparing campaigns
 PDF, CSV, and Markdown export options for campaigns
+
+#GetGetLeads
+<img align="center" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
+GetGetLeads is an AI-powered marketing platform designed to streamline lead generation, automate campaign workflows, and manage social media engagement across multiple platforms. Built with React, TailwindCSS, and Vite, and integrated with Supabase and OpenAI, it enables marketers to connect, convert, and grow their audience efficiently.
+✨ Features
+🧲 Lead Generation – Capture and qualify leads effortlessly
+📈 Analytics – Visualize what’s working (and what’s not)
+🔍 SEO Tools – Boost rankings with smart insights
+🏷️ Keyword Tracking – Monitor performance over time
+💬 Customer Management – Stay organized and close more deals
+💸 Budget Management – Track spend, optimize campaigns
+📅 Campaign Automation – Schedule posts and updates like a pro
+
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 <img align="center" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
