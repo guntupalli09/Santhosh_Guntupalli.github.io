@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
-<h3 align="center">Top 1% Data Engineer | ML & AI Expert | Cloud Architect | BI Developer</h3>
+<h3 align="center">Top 1% Data Engineer | AI Specialist | Cloud Architect | BI Strategist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,7 +9,7 @@
 
 ## 📌 About Me
 
-Versatile engineer blending data engineering, machine learning, and business intelligence. Expert in building scalable pipelines, AI solutions, and real-time systems across multi-cloud platforms. Passionate about transforming complex data into strategic, business-driven insights.
+I’m a passionate, hands-on engineer with deep expertise across **Data Engineering**, **Machine Learning**, **Cloud Infrastructure**, and **Business Intelligence**. I build reliable, scalable systems that turn data into insights — and AI into action.
 
 ---
 
@@ -18,9 +18,9 @@ Versatile engineer blending data engineering, machine learning, and business int
 <details>
 <summary><strong>⚙️ Data Engineering & Cloud</strong></summary>
 
-- Python, Scala, Shell, SQL  
-- Spark, Kafka, Airflow, Flink, Hadoop  
-- AWS, Azure, GCP, Databricks  
+- Python, Scala, SQL, Shell  
+- Spark, Kafka, Airflow, Hadoop  
+- Azure, AWS, GCP, Databricks  
 - Redshift, Snowflake, BigQuery, Synapse  
 - Docker, Kubernetes, Terraform  
 
@@ -32,7 +32,7 @@ Versatile engineer blending data engineering, machine learning, and business int
 - PyTorch, TensorFlow, scikit-learn, PySpark  
 - LangChain, HuggingFace, Transformers  
 - MLflow, FastAPI, Streamlit, BentoML  
-- LLMs, RAG, Time Series (ARIMA, LSTM), Recommenders  
+- LLMs, RAG, Recommenders, ARIMA, LSTM  
 
 </details>
 
@@ -58,121 +58,116 @@ Versatile engineer blending data engineering, machine learning, and business int
 
 - GitHub, Jenkins, CI/CD Pipelines  
 - Unity Catalog, Data Governance, Agile/Scrum  
-- System Design, Collaboration & Communication  
+- Scalable System Design, Cross-functional Collaboration  
 
 </details>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-<details>
-<summary><strong>👥 GhostWriter Teams</strong></summary>
+### 👥 GhostWriter Teams  
+<img src="assets/GW-content calender.png" alt="GhostWriter" width="400" />  
+An AI-powered creative content generator with 5 simulated team agents using LangChain & local LLMs.  
 
-AI-powered content team simulator using LangChain + local LLMs  
-📌 5 agent personas — Strategist, Writer, Analyst, Critic, Brand Guardian  
-📌 Campaign calendar generation, strategy feedback, PDF/CSV export  
-📌 Tech: Streamlit, LangChain, Ollama, Local LLMs  
+**Roles:** Strategist, Writer, Analyst, Critic, Brand Guardian  
+**Stack:** Streamlit, LangChain, Ollama, PDF/CSV export
 
-</details>
+---
 
-<details>
-<summary><strong>📈 GetGetLeads – AI Marketing Suite</strong></summary>
+### ⚡ GetGetLeads – AI Marketing Suite  
+<img src="assets/dashboard-GGL.png" alt="GetGetLeads" width="400" />  
+A unified platform for lead gen, SEO, campaign automation & analytics.  
 
-Automated lead gen, analytics, and campaign scheduling platform  
-📌 SEO Tools, Keyword Ranking, CRM, Budget Tracking  
-📌 Tech: React, TailwindCSS, Supabase, OpenAI  
+**Stack:** React, Supabase, Tailwind, OpenAI  
+**Features:** CRM, Keyword Tracker, Budget Manager, Automation
 
-</details>
+---
 
-<details>
-<summary><strong>✈️ GetGetPlaces – AI Travel Planner</strong></summary>
+### ✈️ GetGetPlaces – AI Travel Planner  
+<img src="assets/Homepage-GGP.png" alt="GetGetPlaces" width="400" />  
+Smart travel planner using weather, NLP, and ML to plan custom itineraries.
 
-Smart travel planner using NLP, weather, ML, and price forecasting  
-📌 ARIMA price model, routing, real-time weather  
-📌 PostgreSQL backend, itinerary generator  
+**Highlights:**  
+- ARIMA price forecasting  
+- Real-time weather  
+- PostgreSQL backend  
+- Distance/time optimization
 
-</details>
+---
 
-<details>
-<summary><strong>🎬 Movie Recommendation Engine</strong></summary>
+### 🎬 [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)  
+<img src="assets/MRS Sample.png" alt="Movie Recommendation" width="400" />  
+A content-based movie recommender using NLP, TF-IDF & cosine similarity.
 
-Content-based engine using TF-IDF & cosine similarity  
-📌 Flask backend, NLTK, scikit-learn, Pandas  
+**Stack:** Flask, NLTK, Pandas, scikit-learn, Jupyter
 
-</details>
+---
 
-<details>
-<summary><strong>📊 Tableau Dashboards</strong></summary>
+### 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)  
+Professional dashboards covering healthcare, logistics, and retail.
 
-Real-world business dashboards (healthcare, retail, logistics)  
-📌 Forecasting, KPI, interactive filters, drill-downs  
-📌 [Live Portfolio ➜](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)
+**Features:**  
+Forecasting, KPI, Filters, Drilldowns
 
-</details>
+---
 
-<details>
-<summary><strong>📉 Real-Time Stock Market Analysis</strong></summary>
+### 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)  
+Live pipeline for real-time stock trends using AWS & Kafka.
 
-Streaming trend detection using Kafka, AWS, and Glue  
-📌 Real-time updates, data lake + Athena for querying  
+**Stack:** Kafka, AWS Glue, EC2, Athena  
+**Output:** Streaming dashboard with trend indicators
 
-</details>
+---
 
-<details>
-<summary><strong>🐍 Snake Game – Python (Tkinter)</strong></summary>
+### 🐍 Snake Game – Python (Tkinter)  
+<img src="assets/PythonSnakeGame.gif" alt="Snake Game" width="400" />  
+A responsive GUI game showing event-driven design and real-time state logic.
 
-Built a responsive Snake Game showcasing event-driven logic  
+---
 
-</details>
-
-<details>
-<summary><strong>🏓 Pong AI – NEAT Algorithm</strong></summary>
-
-AI learns Pong using NEAT & reinforcement training  
-📌 Evolution of neural networks over generations  
-
-</details>
+### 🏓 Pong Game AI – NEAT Algorithm  
+<img src="assets/PythonPongGame-AI.gif" alt="Pong Game AI" width="400" />  
+An AI trained using NEAT to autonomously master Pong via reinforcement learning.
 
 ---
 
 ## 📜 Certifications
 
-- ✅ META: Database Structures & Advanced MySQL  
-- ✅ META: Version Control  
-- ✅ Prompt Engineering – Vanderbilt University  
-- ✅ IBM: Exploratory Data Analysis for ML  
-- ✅ ML Specialization – University of Washington  
+- META: Database Structures & Advanced MySQL  
+- META: Version Control  
+- Prompt Engineering – Vanderbilt University  
+- IBM: Exploratory Data Analysis for Machine Learning  
+- Machine Learning Specialization – University of Washington  
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
 <details>
-<summary><strong>🟣 FedEx Dataworks – Data Engineer II (Remote)</strong> | Jun 2024 – Present</summary>
+<summary><strong>🟣 FedEx Dataworks – Data Engineer II</strong> | Remote · 2024–Present</summary>
 
-- Built cost intelligence system (Databricks, Unity Catalog)  
-- Automated metrics (fuel, block time) with PySpark  
-- Real-time Azure Event Hub pipelines & Power BI dashboards  
-- Enabled multi-cloud workflows across Azure + GCP  
+- Databricks cost calculator for C-level KPIs  
+- ETL pipelines, Unity Catalog, PySpark automation  
+- Azure + GCP integration, Power BI dashboards  
 
 </details>
 
 <details>
-<summary><strong>🟢 Vedhops IT – Data Engineer (Remote)</strong> | Mar 2024 – Jun 2024</summary>
+<summary><strong>🟢 Vedhops IT Services – Data Engineer</strong> | Remote · 2024</summary>
 
-- Developed 3 scalable cloud-native systems  
-- Reduced latency by 40% with real-time streaming  
-- Architected pipelines in ADF, Databricks, Lambda  
+- Built 3 data platforms using Azure Synapse & ADF  
+- Near real-time streaming pipeline with 40% latency reduction  
+- Terraform automation + legacy migration to cloud-native  
 
 </details>
 
 <details>
-<summary><strong>🔵 LTI Mindtree – Data Engineer (India)</strong> | Sep 2019 – Aug 2022</summary>
+<summary><strong>🔵 LTI Mindtree – Data Engineer</strong> | India · 2019–2022</summary>
 
-- Delivered robust ETL pipelines in AWS/Azure  
-- Optimized Spark performance; integrated Redshift, Synapse  
-- Built monitoring and IaC with Terraform  
+- ETL solutions using Glue, ADF, Redshift  
+- Data quality, security, IaC via Terraform  
+- NoSQL/SQL optimization and event-based ingestions  
 
 </details>
 
