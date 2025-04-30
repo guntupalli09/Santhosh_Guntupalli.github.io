@@ -3,11 +3,6 @@ layout: default
 title: About Me
 ---
 
-<h1 align="center">🚀 Santhosh Guntupalli</h1>
-<h3 align="center">Data Engineer | AI/ML Specialist | Cloud & BI Architect</h3>
-
----
-
 ## 👋 Welcome!
 
 I'm a Self-motivated Data Engineer and Machine Learning specialist with a passion for building scalable data platforms and AI-powered systems. I combine advanced data engineering with modern AI to solve real-world problems and create smart, cloud-native solutions.
