@@ -3,7 +3,7 @@
 ---
 
 ## 🎓 Education
-<img src="assets/mortarboard.png" alt="Education" height="30" />  
+
 **Master's in Management Information Systems**
 
 ---
@@ -11,29 +11,28 @@
 ## 🧰 Skillset
 
 ### 👨‍💻 Programming Languages & Frameworks
-<img src="assets/programming.png" alt="Programming" height="30" />  
+
 Python, Java, JavaScript, C, C#, C++, Scala, R, Shell Scripting, Golang
 
 ### ☁️ Cloud Technologies
-<img src="assets/cloud.png" alt="Cloud" height="30" />  
+  
 AWS, GCP, Azure, Snowflake, Oracle, Docker, Kubernetes
 
 ### 🧪 Big Data & Data Engineering Tools
-<img src="assets/big-data.png" alt="Big Data" height="30" />  
+  
 Spark, Kafka, Hadoop, Hive, Airflow, HBase, Nifi, Teradata, Amazon Redshift, MapReduce, Flume, Flink, Informatica, Talend, AWS Glue, S3, Databricks, ADF, Synapse Analytics, Trifacta, JSON, Avro, Parquet, ORC, XML, Protobuf, ELK Stack, PostgreSQL, MongoDB, BigQuery, Elasticsearch, HDFS, Metastore
 
 ### 🤖 Machine Learning
-<img src="assets/machine-learning.png" alt="ML" height="30" />  
+
 TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLMs
 
 ### ⚙️ DevOps & Monitoring
-<img src="assets/tool-box.png" alt="Tools" height="30" />  
+
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful APIs, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm
 
 ---
 
 ## 📂 Projects
-<img src="assets/project-management.png" alt="Projects" height="30" />
 
 ### 👥 GhostWriter Teams  
 <img src="assets/GW-content calender.png" alt="GhostWriter" width="400" />  
