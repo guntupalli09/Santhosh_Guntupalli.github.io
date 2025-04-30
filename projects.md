@@ -3,11 +3,6 @@ layout: default
 title: Projects
 ---
 
-
-<p align="center">
-  <a href="index.md">← Back to Home</a>
-</p>
-
 # 🚀 Featured Projects
 
 Explore some of my most innovative and technical work — covering AI, data pipelines, dashboards, and real-time systems.
