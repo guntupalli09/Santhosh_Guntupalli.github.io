@@ -20,10 +20,10 @@ I'm a top-performing Data Engineer and Machine Learning specialist with a passio
 
 ## 🌟 Highlights
 
-- 🔥 Designed multi-cloud ETL platforms processing billions of rows
-- 🤖 Built AI-powered marketing and travel automation systems
-- 📈 Delivered analytics dashboards used by Fortune 500 leadership
-- 🛠️ Expert in Databricks, Azure, AWS, Kafka, Spark, LLMs
+  •	🔧 Architected and deployed scalable cloud-native data pipelines across distributed environments
+	•	🤖 Built intelligent systems integrating AI, ML, and automation for business efficiency
+	•	📊 Designed interactive dashboards and analytics solutions for high-level decision-making
+	•	☁️ Skilled in modern data platforms including Databricks, Azure, AWS, Kafka, and LLM technologies
 
 ---
 
