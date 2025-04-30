@@ -25,9 +25,6 @@ Explore some of my most innovative and technical work — covering AI, data pipe
 Run locally with open-source models like LLaMA 2 or Mistral (via Ollama), it features five specialized agents working together to produce end-to-end campaign strategies, content calendars, rewrites, and branding insights — all without needing any paid API keys.
 
 ---
-
-## 🧠 Project Overview
-
 Ghostwriter Teams simulates a multi-agent marketing team where each AI agent specializes in a unique creative function:
 
 - **Zara** – Creative Strategist  
