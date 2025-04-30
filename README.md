@@ -38,7 +38,7 @@ Multilingual output and local-first processing (no API keys needed)
 Interactive UI for selecting agents, downloading kits, and comparing campaigns
 PDF, CSV, and Markdown export options for campaigns
 
-#GetGetLeads
+# GetGetLeads
 <img align="center" src="assets/dashboard-GGL.png" alt="santhoshguntupalli" height="200" width="400" />
 GetGetLeads is an AI-powered marketing platform designed to streamline lead generation, automate campaign workflows, and manage social media engagement across multiple platforms. Built with React, TailwindCSS, and Vite, and integrated with Supabase and OpenAI, it enables marketers to connect, convert, and grow their audience efficiently.
 ✨ Features
