@@ -178,6 +178,6 @@ A real-time pipeline for streaming stock insights and analytics using modern clo
 
 ---
 
-<p align="center">
-  🏠 [Back to Home](index.md) | 📄 [Experience](experience.md) | 📫 [Contact](contact.md)
-</p>
+
+🏠 [Back to Home](index.md) | 📄 [Experience](experience.md) | 📫 [Contact](contact.md)
+
