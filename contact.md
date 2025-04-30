@@ -5,8 +5,6 @@ title: Contact
 
 {% include header.md %}
 
----
-
 # 📫 Contact Me
 
 Interested in collaborating, hiring, or just connecting? Reach out below!
