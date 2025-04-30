@@ -1,8 +1,6 @@
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
 <h3 align="center">Data Engineer | AI Specialist | Cloud Architect | BI Strategist</h3>
 
-</p>
-
 ---
 
 ## 📌 About Me
