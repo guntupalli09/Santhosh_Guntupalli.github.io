@@ -112,7 +112,7 @@ Engineered a full-stack AI/ML solution for real-time personalized itinerary gene
 
 ---
 
-## 🎬 [Movie Recommender](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
+## 🎬 [Movie Recommendation System](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 <img src="assets/MRS Sample.png" width="500" alt="Movie Recommendation Engine" />
 
 Built a content-based movie recommendation system using Python, Scikit-Learn, TensorFlow, NLTK, Pandas, and NumPy, applying NLP and similarity matching algorithms to analyze structured/unstructured data and generate personalized predictions.
