@@ -12,9 +12,10 @@ I'm a Self-motivated Data Engineer and Machine Learning specialist with a passio
 ## 🌟 Highlights
 
  - 🛠️ Architected and deployed scalable cloud-native data pipelines across distributed environments  
-- 🤖 Built intelligent systems integrating AI, ML, and automation for business efficiency  
-- 📊 Designed interactive dashboards and analytics solutions for high-level decision-making  
-- ☁️ Skilled in modern data platforms including Databricks, Azure, AWS, Kafka, and LLM technologies
+ - 🤖 Built intelligent systems integrating AI, ML, and automation for business efficiency  
+ - 📊 Designed interactive dashboards and analytics solutions for high-level decision-making  
+ - ☁️ Skilled in modern data platforms including Databricks, Azure, AWS, Kafka, and LLM technologies
+
 ---
 
 ## 🧭 Explore More
