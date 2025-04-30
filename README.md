@@ -21,6 +21,22 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ### <img align="center" src="assets/project-management.png" alt="santhoshguntupalli" height="50" width="60" /> Projects
 
+# GhostWriter Teams
+<img align="center" src="Assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
+Ghostwriter Teams is an AI-powered collaborative writing assistant that simulates a creative marketing team using local large language models (via Ollama) and LangChain agents. Built with Streamlit, the app lets users brainstorm, critique, and generate content calendars with the help of five specialized AI agents:
+
+🎨 Zara – Creative strategist (hooks, themes, story arcs)
+✍️ Max – Content writer (posts, threads, articles)
+📊 Mira – Research analyst (insights, trends, timing)
+🔍 Eva – Critique expert (feedback, scores, rewrites)
+🛡️ Leo – Brand guardian (tone, consistency, alignment)
+
+💡 Key Features
+Full marketing content generation for multiple platforms
+Editable, exportable calendars with strategic agent feedback
+Multilingual output and local-first processing (no API keys needed)
+Interactive UI for selecting agents, downloading kits, and comparing campaigns
+PDF, CSV, and Markdown export options for campaigns
 # [Movie Recommendation Engine]( https://mrs-sg-bfc2e6fa78db.herokuapp.com/)
 
 <img align="center" src="assets/MRS Sample.png" alt="santhoshguntupalli" height="200" width="400" />
