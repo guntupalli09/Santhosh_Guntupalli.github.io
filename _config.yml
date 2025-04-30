@@ -2,7 +2,7 @@ title: Santhosh Guntupalli
 email: santhosh.guntupalli09@gmail.com
 description: Data Engineer | Machine Learning & AI Specialist | Cloud & BI Architect
 logo: assets/dp2.jpg
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/cayman@v0.2.0
 show_downloads: false
 
 # Navigation tabs (must match .md files in root directory)
