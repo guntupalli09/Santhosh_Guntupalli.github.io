@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Santhosh Guntupalli</h1>
-<h3 align="center">Data Engineer | ML & AI Specialist | Cloud Architect | BI Leader</h3>
+<h3 align="center">Data Engineer | Machine Learning & AI Specialist | Cloud & BI Strategist</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guntupalli09&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -9,56 +9,58 @@
 
 ## 🎓 Education
 
-- **Master's in Management Information Systems**  
-  *Strong foundation in systems, databases, and advanced analytics.*
+**Master's in Management Information Systems**  
+*Blending technical systems with analytical thinking to build data-powered solutions.*
 
 ---
 
 ## 🧠 Technical Skillset
 
 <details>
-<summary><strong>👷 Data Engineering & Cloud</strong></summary>
+<summary><strong>⚙️ Data Engineering & Cloud</strong></summary>
 
 - **Languages:** Python, Scala, Shell, SQL  
-- **Distributed Systems:** Spark, Kafka, Flink, Hadoop  
-- **Pipelines & ETL:** Airflow, Databricks, ADF, AWS Glue  
+- **Distributed Processing:** Spark, Kafka, Flink, Hadoop  
+- **Pipelines & Orchestration:** Airflow, ADF, Databricks, AWS Glue  
 - **Cloud Platforms:** AWS, Azure, GCP  
-- **Storage & Warehouses:** Redshift, BigQuery, Snowflake, S3, Synapse  
-- **Infra:** Docker, Kubernetes, Terraform  
+- **Storage & Warehousing:** S3, Redshift, BigQuery, Snowflake, Synapse  
+- **Infrastructure:** Docker, Kubernetes, Terraform  
 
 </details>
 
 <details>
-<summary><strong>🤖 Machine Learning & AI</strong></summary>
+<summary><strong>🧠 Machine Learning & AI</strong></summary>
 
-- **Frameworks:** PyTorch, TensorFlow, scikit-learn, PySpark  
-- **LLMs & NLP:** HuggingFace, LangChain, NLTK, Transformers  
-- **MLOps:** MLflow, FastAPI, Streamlit, BentoML  
-- **Specializations:** Recommender Systems, RAG, ARIMA, LSTM  
+- **Libraries & Frameworks:** PyTorch, TensorFlow, scikit-learn, PySpark  
+- **NLP & LLMs:** HuggingFace, LangChain, Transformers, NLTK  
+- **Deployment & MLOps:** FastAPI, MLflow, Streamlit, BentoML  
+- **Use Cases:** Recommender Systems, Time Series (ARIMA, LSTM), RAG Pipelines  
 
 </details>
 
 <details>
 <summary><strong>📊 Business Intelligence</strong></summary>
 
-- **Tools:** Tableau, Power BI, Superset, Jupyter  
-- **Focus:** KPI Dashboards, Forecasting, Real-time Analytics  
+- **Tools:** Tableau, Power BI, Apache Superset, Jupyter Notebooks  
+- **Specialties:** KPI Dashboards, Real-time Analytics, Executive Reporting  
 
 </details>
 
 <details>
-<summary><strong>🗃️ Databases, APIs & Formats</strong></summary>
+<summary><strong>🗄️ Databases, APIs & Formats</strong></summary>
 
-- PostgreSQL, MongoDB, Oracle, DynamoDB  
-- JSON, Parquet, Avro, Protobuf, REST, GraphQL  
+- **Databases:** PostgreSQL, MongoDB, Oracle, DynamoDB  
+- **Data Formats:** Parquet, Avro, JSON, XML, Protobuf  
+- **APIs:** REST, GraphQL, gRPC  
 
 </details>
 
 <details>
-<summary><strong>🧩 DevOps & Additional Expertise</strong></summary>
+<summary><strong>🧩 DevOps & Engineering Practices</strong></summary>
 
-- GitHub, Jenkins, Linux, CI/CD, Unity Catalog, Data Governance  
-- Agile/Scrum, Cross-functional Communication, Scalable Design  
+- GitHub, Jenkins, CI/CD Pipelines  
+- Unity Catalog, Data Governance, Lineage  
+- Agile/Scrum, Team Collaboration, System Design  
 
 </details>
 
@@ -68,73 +70,71 @@
 
 ### 👥 GhostWriter Teams  
 <img src="assets/GW-content calender.png" alt="GhostWriter" width="400" />  
-An AI-powered collaborative workspace simulating a creative marketing team using LangChain and local LLMs.
+An AI-driven marketing assistant built with LangChain and local LLMs, simulating a 5-role content creation team.
 
-**Roles Simulated:**
-- Zara (Strategist), Max (Writer), Mira (Analyst), Eva (Critic), Leo (Brand Guardian)
-
-**Highlights:**
-- Local-first LLM integration, no API required  
-- Dynamic agent interactions + content calendar export  
-- Built with Streamlit, LangChain, Ollama  
+**Agents:** Zara (Strategist), Max (Writer), Mira (Analyst), Eva (Critic), Leo (Brand Guardian)  
+**Features:** Agent selection, strategy scoring, multilingual content generation, downloadable campaign kits
 
 ---
 
-### 🚀 GetGetLeads – AI Digital Marketing Platform  
+### 🚀 GetGetLeads – AI Marketing Agent  
 <img src="assets/dashboard-GGL.png" alt="GetGetLeads" width="400" />  
-A unified AI tool for lead generation, SEO, analytics, and automation.
+An intelligent dashboard for marketers — combining lead generation, CRM, SEO, and campaign automation.
 
-**Key Features:**
-- Lead Capture & Scoring  
-- Social & SEO Insights  
-- Budget Control & Campaign Automation  
-- Customer CRM + Post Scheduling
+- AI-powered lead capture & scoring  
+- Budget management and performance analytics  
+- Campaign scheduling + social media automation  
+- Supabase + OpenAI + TailwindCSS + React
 
 ---
 
-### ✈️ GetGetPlaces – AI Travel Assistant  
+### ✈️ GetGetPlaces – AI Travel Planner  
 <img src="assets/Homepage-GGP.png" alt="GetGetPlaces" width="400" />  
-Conversational travel planner with smart scheduling, cost forecasting, and itinerary generation.
+Your personal trip planner — uses ML to optimize routes, check weather, and build smart itineraries.
 
-**Key Features:**
-- NLP-Based Trip Input  
-- ARIMA Price Forecasting  
-- Real-time Weather + Route Optimization  
-- PostgreSQL backend with full data model
+- NLP for conversational trip requests  
+- Weather, budget, and distance awareness  
+- ARIMA-based price predictions  
+- PostgreSQL backend for dynamic data  
 
 ---
 
 ### 🎬 [Movie Recommendation Engine](https://mrs-sg-bfc2e6fa78db.herokuapp.com/)  
 <img src="assets/MRS Sample.png" alt="Movie Recommendation" width="400" />  
-NLP-powered content-based recommender using TF-IDF and cosine similarity.
+A content-based recommender system using NLP (TF-IDF) and cosine similarity.
 
-**Tech Stack:** Flask, NLTK, Scikit-learn, Jupyter
+- Built with Flask + Scikit-learn  
+- Includes vectorization, similarity scoring, and UI  
+- Integrated API + performance-tuned model  
 
 ---
 
 ### 📊 [Tableau Dashboards](https://public.tableau.com/app/profile/santhosh.guntupalli/vizzes)  
-Professional visualizations showcasing statistical storytelling and domain expertise.
+Professionally designed data visualizations for healthcare, marketing, supply chain, and finance.
 
-**Domains Covered:** Healthcare, Retail, Logistics, Education
+- KPI Dashboards, Time Series Forecasts, Geospatial Maps  
+- Designed for decision-makers and non-technical stakeholders  
 
 ---
 
 ### 📈 [Real-Time Stock Market Analysis](https://github.com/guntupalli09/stock_market-real_time-analysis)  
-Streaming pipeline for live market trend analysis using AWS and Kafka.
+Live insights on market behavior using a real-time data pipeline.
 
-**Stack:** Kafka, Glue, Athena, EC2, S3, Jupyter
+- Kafka > AWS Glue > S3 > Athena  
+- Python crawlers and trend indicator models  
+- Investment-ready dashboards  
 
 ---
 
 ### 🐍 Snake Game (Tkinter)  
 <img src="assets/PythonSnakeGame.gif" alt="Snake Game" width="400" />  
-Built a GUI-based Snake game showcasing real-time event handling and state transitions.
+Built from scratch to showcase event-driven logic and dynamic UI handling.
 
 ---
 
-### 🏓 Pong Game AI – NEAT Algorithm  
+### 🏓 Pong Game AI – NEAT  
 <img src="assets/PythonPongGame-AI.gif" alt="Pong AI" width="400" />  
-Evolved an AI to master Pong using NeuroEvolution and reinforcement learning.
+Autonomously trained AI using NeuroEvolution (NEAT) to play Pong with reinforcement learning.
 
 ---
 
@@ -143,7 +143,7 @@ Evolved an AI to master Pong using NeuroEvolution and reinforcement learning.
 - META: Database Structures & Advanced MySQL  
 - META: Version Control  
 - Prompt Engineering – Vanderbilt University  
-- IBM: EDA for Machine Learning  
+- IBM: Exploratory Data Analysis for Machine Learning  
 - Machine Learning Specialization – University of Washington  
 
 ---
@@ -152,28 +152,28 @@ Evolved an AI to master Pong using NeuroEvolution and reinforcement learning.
 
 ### 🟣 FedEx Dataworks – Data Engineer II (Remote)  
 *June 2024 – Present*  
-- Developed cost calculator with Databricks, Docker, Event Hubs  
-- Automated cost insights (fuel, landing fees) with PySpark  
-- Integrated multi-cloud workflows (Azure + GCP)  
-- Built executive dashboards with Power BI & Unity Catalog  
+- Built cost intelligence system with Databricks, Unity Catalog, and Power BI  
+- Engineered automated pipelines for fuel burn, block time, landing fees  
+- Real-time event processing with Azure Event Hubs  
+- Architected cross-cloud (Azure + GCP) workflows  
 
 ---
 
 ### 🟢 Vedhops IT Services – Data Engineer (Remote)  
-*Mar 2024 – Jun 2024*  
-- Architected 3 cloud-native data systems  
-- Enhanced latency by 40% via real-time streaming  
-- Deployed infrastructure with Terraform & Azure Databricks  
-- Migrated monolithic pipelines to modular cloud-native workflows  
+*March 2024 – June 2024*  
+- Delivered 3 production-ready cloud data platforms  
+- Reduced data latency by 40% through real-time ingestion  
+- Led migration of legacy ETLs to modular cloud-native stacks  
+- Leveraged Azure Synapse, ADF, EC2, and Lambda  
 
 ---
 
-### 🔵 LTI Mindtree – Data Engineer (Hyderabad, India)  
-*Sep 2019 – Aug 2022*  
-- Led ingestion pipelines across ADF, AWS Glue  
-- Delivered 30% processing speed gains with Spark optimization  
-- Strengthened security with encryption & alerting frameworks  
-- Collaborated on cross-cloud strategies using Redshift + Synapse  
+### 🔵 LTI Mindtree – Data Engineer (India)  
+*September 2019 – August 2022*  
+- Built robust data pipelines using AWS Glue and ADF  
+- Led integration across Redshift, Synapse, Azure SQL  
+- Optimized Spark workflows and secured data pipelines  
+- Created data monitoring, alerting, and encryption systems  
 
 ---
 
@@ -194,3 +194,4 @@ Evolved an AI to master Pong using NeuroEvolution and reinforcement learning.
 </a>  
 📬 [santhosh.guntupalli09@gmail.com](mailto:santhosh.guntupalli09@gmail.com)
 
+---
