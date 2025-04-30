@@ -1,7 +1,35 @@
 title: Santhosh Guntupalli
-email: santhosh.gutupalli09@gmail.comlk
+email: santhosh.guntupalli09@gmail.com
+description: >-
+  🚀 Data Engineer | Machine Learning & AI Specialist | Cloud & BI Architect  
+  🔗 [LinkedIn](https://www.linkedin.com/in/santhoshguntupalli)  
+  📬 [Email Me](mailto:santhosh.guntupalli09@gmail.com)
+
 logo: assets/dp2.jpg
-description: <a href="https://www.linkedin.com/in/santhoshguntupalli" target="_blank">  <img align="left" alt="Arjun | LinkedIn" width="30px"  src="assets/linkedin.png" />
 show_downloads: true
-theme: jekyll-theme-Minimal
+theme: jekyll-theme-minimal
+
+# Optional - Customize footer or social links
+social_links:
+  linkedin: https://www.linkedin.com/in/santhoshguntupalli
+  github: https://github.com/guntupalli09
+  email: santhosh.guntupalli09@gmail.com
+
+# Optional - Add site-wide SEO metadata
+plugins:
+  - jekyll-seo-tag
+
+# Optional - If using favicon or custom style
+favicon: assets/favicon.ico
+
+# Optional - Navigation bar or footer links (simulated tabs)
+header_pages:
+  - index.md
+  - projects.md
+  - resume.md
+  - contact.md
+
+# Optional - Markdown & file options
+markdown: kramdown
+highlighter: rouge
 
