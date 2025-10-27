@@ -66,9 +66,6 @@ I’m a passionate, hands-on engineer with deep expertise across **Data Engineer
 <img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
 <img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" /> 
 
-<table>
-<tr>
-<td width="60%">
 GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
 
 **Features:**
