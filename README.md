@@ -62,6 +62,28 @@ I’m a passionate, hands-on engineer with deep expertise across **Data Engineer
 
 ## 🚀 Featured Projects
 
+### ⚡ GetGetLeads – AI Marketing Suite  
+<img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
+<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" /> 
+⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
+
+<table>
+<tr>
+<td width="60%">
+GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
+
+**Features:**
+- Smart Lead Management
+- AI-Powered Email Automation
+- Calendar Integration
+- Google Calendar two-way sync
+- AI Content Generation
+- Reviews & Referrals Automation
+- Analytics Dashboard
+- Niche-Specific Support
+- Multi-platform posting and social automation
+
+---
 ### 👥 GhostWriter Teams  
 <img src="assets/GW-content calender.png" alt="GhostWriter" width="400" />  
 An AI-powered creative content generator with 5 simulated team agents using LangChain & local LLMs.  
@@ -70,16 +92,6 @@ An AI-powered creative content generator with 5 simulated team agents using Lang
 **Stack:** Streamlit, LangChain, Ollama, PDF/CSV export
 
 ---
-
-### ⚡ GetGetLeads – AI Marketing Suite  
-<img src="assets/dashboard-GGL.png" alt="GetGetLeads" width="400" />  
-A unified platform for lead gen, SEO, campaign automation & analytics.  
-
-**Stack:** React, Supabase, Tailwind, OpenAI  
-**Features:** CRM, Keyword Tracker, Budget Manager, Automation
-
----
-
 ### ✈️ GetGetPlaces – AI Travel Planner  
 <img src="assets/Homepage-GGP.png" alt="GetGetPlaces" width="400" />  
 Smart travel planner using weather, NLP, and ML to plan custom itineraries.
