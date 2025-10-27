@@ -62,10 +62,9 @@ I’m a passionate, hands-on engineer with deep expertise across **Data Engineer
 
 ## 🚀 Featured Projects
 
-### ⚡ GetGetLeads – AI Marketing Suite  
+### ⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 <img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
 <img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" /> 
-⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
 <table>
 <tr>
