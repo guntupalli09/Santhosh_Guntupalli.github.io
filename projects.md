@@ -9,7 +9,7 @@ title: Projects
 Explore some of my most innovative and technical work — covering AI, data pipelines, dashboards, and real-time systems.
 
 ---
-## ⚡  [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
+## ⚡ [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
 <img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
 <img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
@@ -28,6 +28,7 @@ GetGetLeads is a comprehensive, all-in-one platform designed specifically for sm
 - Multi-platform posting and social automation
 
 ---
+
 ## 👥 GhostWriter Teams
 <img src="assets/GW-content calender.png" width="500" alt="GhostWriter" />
 
