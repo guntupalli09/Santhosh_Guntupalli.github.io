@@ -9,7 +9,25 @@ title: Projects
 Explore some of my most innovative and technical work — covering AI, data pipelines, dashboards, and real-time systems.
 
 ---
+## ⚡  [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
+<img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
+<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
+<td width="60%">
+GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
+
+**Features:**
+- Smart Lead Management
+- AI-Powered Email Automation
+- Calendar Integration
+- Google Calendar two-way sync
+- AI Content Generation
+- Reviews & Referrals Automation
+- Analytics Dashboard
+- Niche-Specific Support
+- Multi-platform posting and social automation
+
+---
 ## 👥 GhostWriter Teams
 <img src="assets/GW-content calender.png" width="500" alt="GhostWriter" />
 
@@ -58,44 +76,6 @@ Ghostwriter responds with:
 Then, you export it all in Markdown, PDF, or CSV
 
 **Tech Stack:** Streamlit · LangChain · Ollama · Local LLMs
-
-
-
----
-
-## ⚡  [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
-
-<img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
-<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
-<td width="60%">
-GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
-
-**Features:**
-- Smart Lead Management
-- AI-Powered Email Automation
-- Calendar Integration
-- Google Calendar two-way sync
-- AI Content Generation
-- Reviews & Referrals Automation
-- Analytics Dashboard
-- Niche-Specific Support
-- Multi-platform posting and social automation
-
----
-
-## ⚡ Key Features
-
-- **Lead Generation** – Capture and score leads using AI-driven forms
-- **Analytics Dashboard** – Visual insights into traffic, conversion, and ROI
-- **SEO + Keyword Tracking** – Monitor rankings and optimize content
-- **Budget Management** – Track ad spend, campaign costs, and performance
-- **Campaign Automation** – Schedule and automate posts, emails, and outreach
-- **Customer CRM** – Manage contacts, notes, and communication history
-- **Social Media Automation** - upload social media content post, including tags based on users, interest, and schedule times
-
----
-
-**Stack:** React · Supabase · Tailwind · OpenAI
 
 ---
 
