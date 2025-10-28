@@ -63,12 +63,23 @@ Then, you export it all in Markdown, PDF, or CSV
 
 ---
 
-## ⚡ GetGetLeads – AI Digital Marketing Agent
-<img src="assets/dashboard-GGL.png" width="500" alt="GetGetLeads" />
+## ⚡  [GetGetLeads – AI Lead-to-booking & Digital Marketing Agent](https://www.getgetleads.com/login)
 
-**GetGetLeads** is a powerful, AI-enhanced marketing automation platform built for modern teams and growth-focused individuals. It helps you generate and manage leads, track marketing performance, automate campaigns, and optimize SEO — all from a clean, intuitive dashboard.
+<img src="GGL- Login page.png" alt="GetGetLeads Login" width="250" />
+<img src="GGL- Demo page.png" alt="GetGetLeads Dashboard" width="350" />
+<td width="60%">
+GetGetLeads is a comprehensive, all-in-one platform designed specifically for small businesses in the salon, med spa, and real estate industries. It combines lead generation, CRM, email automation, social media automation, calendar management, and AI-powered content generation to help small businesses scale efficiently.
 
-Whether you're a solo founder, marketing team, or agency, GetGetLeads simplifies the complexity of digital marketing with smart tools and automation powered by Supabase and OpenAI.
+**Features:**
+- Smart Lead Management
+- AI-Powered Email Automation
+- Calendar Integration
+- Google Calendar two-way sync
+- AI Content Generation
+- Reviews & Referrals Automation
+- Analytics Dashboard
+- Niche-Specific Support
+- Multi-platform posting and social automation
 
 ---
 
